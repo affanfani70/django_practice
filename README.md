@@ -14,8 +14,7 @@ This project is a practice project to learn and experiment with Django. It inclu
 1. **Clone the repository**:
 
     ```sh
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/affanfani70/django_practice.git
     ```
 
 2. **Create a virtual environment**:
